@@ -1,6 +1,6 @@
 # Summarist
 
-Live Demo: https://stefano-summarist-internship.vercel.app
+Live Demo: https://stefano-summarist.vercel.app
 
 Digital reading platform built with Next.js, Firebase and Redux.
 
