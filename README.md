@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Summarist
 
-## Getting Started
+Live Demo: https://stefano-summarist-internship.vercel.app
 
-First, run the development server:
+Digital reading platform built with Next.js, Firebase and Redux.
 
-```bash
+Summarist is a frontend web application designed to provide a modern reading experience through authentication, dynamic content and personalised user flows.
+
+---
+
+## Features
+
+* Authentication (login, signup and guest access)
+* Premium subscription flow
+* Dynamic content rendering
+* Responsive UI across desktop and mobile
+* User settings and personalised experience
+* Global state management with Redux
+
+---
+
+## Tech Stack
+
+Frontend
+
+* Next.js
+* React
+* TypeScript
+* CSS
+
+Backend & Data
+
+* Firebase
+* Firestore
+
+State Management
+
+* Redux Toolkit
+
+Deployment
+
+* Vercel
+* GitHub
+
+---
+
+## What I Worked On
+
+During this project I focused on:
+
+* Building authentication and protected user flows
+* Integrating Firebase services into the application
+* Managing application state across multiple pages
+* Developing reusable components and responsive layouts
+* Deploying and testing production builds
+
+---
+
+## Run Locally
+
+Clone repository
+
+npm install
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Future Improvements
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Expand library and recommendation features
+* Improve loading and transition states
+* Continue refining responsive experience
