@@ -6,7 +6,6 @@ Digital reading platform built with Next.js, Firebase and Redux.
 
 Summarist is a frontend web application designed to provide a modern reading experience through authentication, dynamic content and personalised user flows.
 
----
 
 ## Features
 
@@ -17,7 +16,6 @@ Summarist is a frontend web application designed to provide a modern reading exp
 * User settings and personalised experience
 * Global state management with Redux
 
----
 
 ## Tech Stack
 
@@ -42,7 +40,6 @@ Deployment
 * Vercel
 * GitHub
 
----
 
 ## What I Worked On
 
@@ -54,7 +51,6 @@ During this project I focused on:
 * Developing reusable components and responsive layouts
 * Deploying and testing production builds
 
----
 
 ## Run Locally
 
@@ -64,7 +60,6 @@ npm install
 
 npm run dev
 
----
 
 ## Future Improvements
 
