@@ -6,23 +6,26 @@ Live Demo: https://stefano-summarist.vercel.app
 
 ## Overview
 
-Summarist is a responsive web application where users can discover book summaries, create an account, manage their library, and unlock premium content through a subscription flow. The project focuses on authentication, personalised user experiences, and dynamic content powered by Firebase.
+Summarist is a responsive web application where users can discover book summaries, create an account, read or listen to summaries, manage their library, and unlock premium content through a subscription flow.
 
 ## Features
 
 User authentication with login, signup, and guest access
 
-Premium subscription flow
+Browse book summaries
 
-Browse and read book summaries
+Read or listen to audio summaries
 
-Personalised user experience
+Premium subscription with Stripe Checkout
 
-Dynamic content rendering
+Personalised library and reading experience
 
-Global state management with Redux Toolkit
+Dynamic content across multiple pages
 
 Responsive design for desktop and mobile
+
+
+## Technologies
 
 ## Technologies
 
@@ -35,6 +38,27 @@ React
 TypeScript
 
 CSS
+
+**Backend & Services**
+
+Firebase
+
+Firebase Authentication
+
+Firestore
+
+Stripe
+
+**State Management**
+
+Redux Toolkit
+
+**Deployment**
+
+Vercel
+
+GitHub
+
 
 **Backend & Database**
 
