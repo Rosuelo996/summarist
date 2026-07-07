@@ -1,64 +1,74 @@
 # Summarist
 
+Digital reading platform built with **Next.js**, **Firebase**, and **Redux Toolkit**.
+
 Live Demo: https://stefano-summarist.vercel.app
 
-Digital reading platform built with Next.js, Firebase and Redux.
+## Overview
 
-Summarist is a frontend web application designed to provide a modern reading experience through authentication, dynamic content and personalised user flows.
-
+Summarist is a responsive web application where users can discover book summaries, create an account, manage their library, and unlock premium content through a subscription flow. The project focuses on authentication, personalised user experiences, and dynamic content powered by Firebase.
 
 ## Features
 
-* Authentication (login, signup and guest access)
-* Premium subscription flow
-* Dynamic content rendering
-* Responsive UI across desktop and mobile
-* User settings and personalised experience
-* Global state management with Redux
+User authentication with login, signup, and guest access
 
+Premium subscription flow
 
-## Tech Stack
+Browse and read book summaries
 
-Frontend
+Personalised user experience
 
-* Next.js
-* React
-* TypeScript
-* CSS
+Dynamic content rendering
 
-Backend & Data
+Global state management with Redux Toolkit
 
-* Firebase
-* Firestore
+Responsive design for desktop and mobile
 
-State Management
+## Technologies
 
-* Redux Toolkit
+**Frontend**
 
-Deployment
+Next.js
 
-* Vercel
-* GitHub
+React
 
+TypeScript
 
-## What I Worked On
+CSS
 
-During this project I focused on:
+**Backend & Database**
 
-* Building authentication and protected user flows
-* Integrating Firebase services into the application
-* Managing application state across multiple pages
-* Developing reusable components and responsive layouts
-* Deploying and testing production builds
+Firebase
 
+Firestore
 
-## Run Locally
+**State Management**
 
-Clone repository
+Redux Toolkit
 
+**Deployment**
+
+Vercel
+
+GitHub
+
+## Requirements
+
+Node.js 20+
+
+npm
+
+## Installation
+
+```bash
+git clone https://github.com/Rosuelo996/summarist.git
+cd summarist
 npm install
-
 npm run dev
+```
+
+Open **http://localhost:3000** in your browser.
+
 
 
 ## Future Improvements
