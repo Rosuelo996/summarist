@@ -68,11 +68,3 @@ npm run dev
 ```
 
 Open **http://localhost:3000** in your browser.
-
-
-
-## Future Improvements
-
-* Expand library and recommendation features
-* Improve loading and transition states
-* Continue refining responsive experience
