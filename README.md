@@ -1,4 +1,4 @@
-SUMMARIST
+# Summarist
 
 Digital reading platform built with **Next.js**, **Firebase**, and **Redux Toolkit**.
 
