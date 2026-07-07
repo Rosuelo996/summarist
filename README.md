@@ -27,8 +27,6 @@ Responsive design for desktop and mobile
 
 ## Technologies
 
-## Technologies
-
 **Frontend**
 
 Next.js
